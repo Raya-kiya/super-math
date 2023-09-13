@@ -4,6 +4,7 @@ import modules.test as t
 import modules.tests.test_all as ta
 
 print("start")
+print("pre start")
 f1 = factorial.factorial_rec(5)
 print(f1)
 
